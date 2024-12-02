@@ -1,0 +1,14 @@
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\bin\Debug\net8.0\TryCatch-Lesson.exe
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\bin\Debug\net8.0\TryCatch-Lesson.deps.json
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\bin\Debug\net8.0\TryCatch-Lesson.runtimeconfig.json
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\bin\Debug\net8.0\TryCatch-Lesson.dll
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\bin\Debug\net8.0\TryCatch-Lesson.pdb
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\obj\Debug\net8.0\TryCatch-Lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\obj\Debug\net8.0\TryCatch-Lesson.AssemblyInfoInputs.cache
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\obj\Debug\net8.0\TryCatch-Lesson.AssemblyInfo.cs
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\obj\Debug\net8.0\TryCatch-Lesson.csproj.CoreCompileInputs.cache
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\obj\Debug\net8.0\TryCatch-Lesson.dll
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\obj\Debug\net8.0\refint\TryCatch-Lesson.dll
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\obj\Debug\net8.0\TryCatch-Lesson.pdb
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\obj\Debug\net8.0\TryCatch-Lesson.genruntimeconfig.cache
+C:\Users\rojbinvefacan.agtas\source\repos\TryCatch-Lesson\obj\Debug\net8.0\ref\TryCatch-Lesson.dll
