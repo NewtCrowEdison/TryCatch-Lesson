@@ -83,7 +83,44 @@ namespace TryCatch_Lesson
             {
                 Console.WriteLine("Beni beni, Rojbini tercih ediceksin tabi hadsiz. Kendine gel");
             }
-
+            #region Soru 2
+            /* 
+             * Bir bankacılık uygulamasında kullanıcı giriş bilgilerini kontrol eden bir program yazın. 
+             * Kullanıcı 3 defa yanlış bilgi girerse hesap kilitlensin, her yanlış denemede uyarı mesajı verilsin.
+             */
+            String user = "admin";
+            String pass = "12345";
+            int attemptCount = 0;
+            int maxAttempt = 3;
+            while (attemptCount < maxAttempt)
+            {
+                try
+                {
+                    Console.WriteLine("Kullanıcı adını giriniz");
+                    String username = Console.ReadLine();
+                    Console.WriteLine("Şifrenizi giriniz");
+                    String password = Console.ReadLine();
+                    if (username != user || password != pass)
+                    {
+                        attemptCount++;
+                        Console.WriteLine($"Hatalı giriş. Kalan deneme hakkınız: {maxAttempt - attemptCount}");
+                        if( attemptCount == maxAttempt )
+                        {
+                            throw new Exception("Maximum hatalı giriş sayısı");
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("Giriş Başarılı");
+                        break;
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Maximum hatalı giriş sayısına ulaştınız. Lütfen Rojbin'le görüşün ona yalvarın");
+                }
+            }
+            #endregion
         }
     }
 }
