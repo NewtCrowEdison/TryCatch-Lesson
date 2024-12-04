@@ -121,6 +121,45 @@ namespace TryCatch_Lesson
                 }
             }
             #endregion
+                #region Kullanıcıdan kelime girmesini isteyen ve bu kelimeyi tersten yazan döngü (for ile)
+//String word = Console.ReadLine();
+//for(int i = word.Length-1; i>=0; i--)
+//{
+//    Console.Write(word.ElementAt(i));
+//}
+//Console.WriteLine("\nikinci kelime");
+//String word2 = Console.ReadLine();
+//for (int i = word2.Length - 1; i >= 0; i--)
+//{
+//    Console.Write(word2[i]);
+//}
+#endregion
+
+#region Kullanıcı tarafından girilen 10 sayıdan kaç tanesinin 3 basamaklı olduğunu bulan program
+//int count = 0;
+//for (int i = 1; i<=10; i++)
+//{
+//    Console.WriteLine(i + ". sayıyı giriniz");
+//    int j = int.Parse(Console.ReadLine());
+//    if (j>=100 && j<=999)
+//        count++;
+//}
+//Console.WriteLine("3 basamaklı sayıların adeti " + count);
+
+//int count2 = 0;
+//for (int i = 1; i <= 10; i++)
+//{
+//    Console.WriteLine(i + ". sayıyı giriniz");
+//    int j = int.Parse(Console.ReadLine());
+//    string jString = j.ToString();
+//    if (jString.Length == 3)
+//    {
+//        count2++;
+//    }
+//}
+//Console.WriteLine("Girilen 3 basamaklı sayıların adeti : " + count2);
+
+#endregion
         }
     }
 }
